@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Adios mundo cruel!"
+          echo "Adios mundo!"
       - name: Dime la fecha
         run: date
       - run: ls -l
